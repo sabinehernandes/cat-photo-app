@@ -1,2 +1,4 @@
 # cat-photo-app
-HTML project of a cat photo app. Project from freeCodeCamp
+Project of a cat photo app using basic concepts of HTML
+
+Project from freeCodeCamp
